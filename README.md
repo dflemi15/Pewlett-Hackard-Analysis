@@ -1,10 +1,10 @@
-Pewlett-Hackard Employee Database Analysis
+## Pewlett-Hackard Employee Database Analysis
 
-Overview 
+## Overview 
 
 This analysis was conducted to provide insight on the upcoming wave of retirement eligible employees at Pewlett-Hackard (PH). To do this, an in-depth analysis of the employee database at Pewlett-Hackard was done using a variety of queries that provided important information by partitioning the data into useful subcategories.
 
-Results
+## Results
 
 The results of the analysis yielded the following four major findings:
 
@@ -20,7 +20,7 @@ The results of the analysis yielded the following four major findings:
 
 •	PH does not appear to have the current capacity to fill the vacant positions. The “silver tsunami” should be a major concern for PH as they attempt to find quality talent to replace the significantly large number of employees retiring.  
 
-Summary
+## Summary
 
 In summary, there are a total of 72,458 potential roles that will need to be filled due to the number of employees that are eligible to retire. As of now, it does not appear that PH has the required amount of mentorship eligible employees to help cover that amount of resource loss. 
 
@@ -32,4 +32,3 @@ Departments d005, d004, and d007 (Development, Production, and Sales, respective
 
 ![image](https://user-images.githubusercontent.com/107585908/182267599-5447ed17-5278-4934-b2b6-3f039d32ba48.png)
  
-  
